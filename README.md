@@ -1,2 +1,2 @@
 # conuhacksiii_bork_search
-Offline google search with sms
+This is designed to allow offline google searches using sms messages and the Twilio API
